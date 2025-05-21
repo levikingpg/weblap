@@ -1,0 +1,33 @@
+
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #cc0000;
+  font-weight: bold;
+}
+
+.float-left {
+  float: left;
+  margin: 10px;
+  width: 250px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.float-right {
+  float: right;
+  margin: 10px;
+  width: 250px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+header h1, header p {
+  text-align: center;
+  color: #333;
+}
